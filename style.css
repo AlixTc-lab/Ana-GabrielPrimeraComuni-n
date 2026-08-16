@@ -679,7 +679,7 @@ FLECHAS DE NAVEGACIÓN SWIPER
     transform: scale(1.1);
 }
 
-/* Opcional: Ocultar flechas en celulares pequeños para que no estorben */
+
 @media(max-width: 600px) {
     .swiper-button-next,
     .swiper-button-prev {
